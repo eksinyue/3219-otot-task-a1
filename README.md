@@ -4,7 +4,7 @@ Student Name: He Xinyue
 
 Matriculation Number: A0204712U
 
-[Link to Github Repo]()
+[Link to Github Repo](https://github.com/eksinyue/3219-otot-task-a1)
 
 step 1: run `docker-compose build` to build the application
 
